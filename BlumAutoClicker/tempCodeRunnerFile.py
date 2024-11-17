@@ -1,0 +1,1 @@
+distance = math.sqrt((x - i) ** 2 + (y - j) ** 2)
